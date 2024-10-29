@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning, AI, Deep Learning, and Programmer
 - 🌱 I’m currently learning Big data Analytics
 - 💞️ I’m looking to collaborate on every
-- 📫 How to reach me. you can email me by evan.loano@gmail.com  
+- 📫 How to reach me. you can email me evan.loano@gmail.com  
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
